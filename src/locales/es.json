@@ -11,35 +11,54 @@
   "homepage": {
     "title": "Come Bien, Vive Mejor",
     "subtitle": "Nutrición inteligente para personas y profesionales",
-    "description": "En Jameo Fit, creemos que una buena alimentación no debe ser complicada. Nuestra plataforma conecta a jóvenes adultos con nutricionistas, combinando planes personalizados, recetas prácticas y seguimiento profesional en un solo ecosistema digital.",
-    "aditional_description": "Con tecnología que entiende a las personas y herramientas que potencian a los especialistas, impulsamos hábitos saludables y sostenibles para todos",
+    "description": "En Jameo Fit, creemos que una buena alimentación no debe ser complicada. Nuestra plataforma conecta a jóvenes adultos con un ecosistema de nutrición donde los nutricionistas aportan conocimiento experto para entrenar y validar modelos de IA que generan planes personalizados, todo en un solo entorno digital.",
+    "aditional_description": "Con tecnología que entiende a las personas y herramientas que permiten a los especialistas alimentar y validar sistemas inteligentes, impulsamos hábitos saludables y sostenibles para todos.",
     "benefit1": "Pierde grasa sin perder sabor",
     "benefit2": "Gana músculo con recetas reales",
     "benefit3": "Mejora tu bienestar con acompañamiento profesional",
     "image_alt": "Nutricionista junto a su paciente"
   },
+  "hero": {
+    "badge": "Seguimiento de nutrición inteligente",
+    "title": "Monitorea tu nutrición",
+    "title_highlight": "automáticamente",
+    "description": "Conecta dispositivos inteligentes para monitorear hidratación, peso y progreso nutricional desde una sola plataforma.",
+    "benefits": {
+      "1": "Seguimiento automático",
+      "2": "Hidratación inteligente",
+      "3": "Progreso en tiempo real"
+    },
+    "card1": {
+      "value": "68.4 kg",
+      "label": "Balanza inteligente"
+    },
+    "card2": {
+      "value": "Hidratación",
+      "label": "72%"
+    }
+  },
   "for_you": {
     "title": "¿Qué hace Jameo Fit por ti?",
     "benefit1": "Evaluación inteligente",
-    "benefit1_desc": "Responde un breve cuestionario y obtén un análisis nutricional adaptado a ti desde el primer clic. Los nutricionistas reciben esta información para personalizar aún más tu plan.",
+    "benefit1_desc": "Responde un breve cuestionario y obtén un análisis nutricional adaptado a ti desde el primer clic. Esta información es utilizada por expertos en nutrición para entrenar y refinar el sistema de IA que genera tu plan.",
     "benefit2": "Seguimiento en tiempo real",
-    "benefit2_desc": "Monitorea tu progreso con gráficos dinámicos e informes semanales que hablan tu idioma. Los especialistas pueden revisar tu avance y ajustar tu plan sin complicaciones.",
+    "benefit2_desc": "Monitorea tu progreso con gráficos dinámicos e informes semanales que hablan tu idioma. El sistema actualiza tu plan en base a análisis de IA y validación experta.",
     "benefit3": "Planes personalizados",
-    "benefit3_desc": "Diseñamos menús que se adaptan a tus gustos, rutina y objetivos. Para los nutricionistas, es una herramienta confiable para crear y actualizar planes basados en evidencia.",
+    "benefit3_desc": "Diseñamos menús que se adaptan a tus gustos, rutina y objetivos. Para los expertos en nutrición, es una herramienta confiable para validar y mejorar planes generados por IA.",
     "benefit4": "Nutrición que se adapta a ti",
-    "benefit4_desc": "Disfruta una experiencia flexible que se ajusta a tu estilo de vida. Al mismo tiempo, los profesionales cuentan con un aliado digital para acompañarte en cada etapa."
+    "benefit4_desc": "Disfruta una experiencia flexible que se ajusta a tu estilo de vida. Al mismo tiempo, los especialistas aportan conocimiento para mejorar la IA que guía tu proceso."
   },
   "testimonials": {
     "title": "Lo que dicen nuestros usuarios",
     "user1": {
       "name": "Lic. María Torres",
       "text": "“Una herramienta que amplifica mi impacto.”",
-      "sub": "Puedo acompañar a más pacientes, ajustar planes y motivarlos con evidencia real."
+      "sub": "Aporto mi conocimiento para entrenar modelos de IA que ayudan a más pacientes con mejores recomendaciones."
     },
     "user2": {
       "name": "Andrés M.",
       "text": "“Perdí 4kg sin sufrir.”",
-      "sub": "Me motiva ver mi progreso diario y comer lo que me gusta."
+      "sub": "Me motiva ver mi progreso diario y puedo seguir comiendo lo que me gusta."
     },
     "user3": {
       "name": "Nico D.",
@@ -50,12 +69,12 @@
   "how_it_works": {
     "title": "¿Cómo funciona?",
     "step1": "Responde un breve cuestionario sobre tus objetivos y preferencias.",
-    "step2": "Recibe tu plan de alimentación personalizado en segundos, respaldado por ciencia y profesionales.",
-    "step3": "Ajusta y sigue tu progreso con herramientas simples y visuales, mientras tu nutricionista te acompaña en cada etapa."
+    "step2": "Recibe tu plan de alimentación personalizado en segundos, impulsado por IA y validado por expertos.",
+    "step3": "Ajusta y sigue tu progreso con herramientas simples y visuales, mientras el sistema mejora continuamente con aporte experto."
   },
   "cta": {
     "title": "Empieza gratis hoy",
-    "description": "Tu camino hacia una vida saludable comienza ahora. Conecta con nutricionistas, recibe planes inteligentes y alcanza resultados sostenibles.",
+    "description": "Tu camino hacia una vida saludable comienza ahora. Conecta con inteligencia nutricional, recibe planes inteligentes y alcanza resultados sostenibles.",
     "button": "Comenzar",
     "app_store": "App Store",
     "google_play": "Google Play",
@@ -77,43 +96,43 @@
     "rights": "© 2025 Jameo Fit. Todos los derechos reservados."
   },
   "meet_the_team": {
-     "title": "Conoce al equipo"
+    "title": "Conoce al equipo"
   },
   "meet_the_product": {
     "title": "Conoce el producto"
   },
   "app_showcase": {
-  "title": "Descubre JameoFit",
-  "subtitle": "Explora las principales funcionalidades de nuestra aplicación móvil",
-  "screenshots": {
-    "home": {
-      "title": "Vista Home",
-      "description": "Pantalla principal de JameoFit"
-    },
-    "goals": {
-      "title": "Mis Metas",
-      "description": "Seguimiento de tus objetivos"
-    },
-    "meal_plans": {
-      "title": "Planes de Comida",
-      "description": "Planes alimenticios personalizados"
-    },
-    "meal_detail": {
-      "title": "Detalle de Plan",
-      "description": "Información completa de tu plan"
-    },
-    "nutritionists": {
-      "title": "Nutricionistas",
-      "description": "Encuentra tu nutricionista ideal"
-    },
-    "welcome": {
-      "title": "Vista de Bienvenida",
-      "description": "Inicia el viaje hacia una vida saludable"
-    },
-    "tips": {
-      "title": "Tips de Nutrición",
-      "description": "Consejos para una vida saludable"
+    "title": "Descubre JameoFit",
+    "subtitle": "Explora las principales funcionalidades de nuestra aplicación móvil",
+    "screenshots": {
+      "home": {
+        "title": "Vista Home",
+        "description": "Pantalla principal de JameoFit"
+      },
+      "goals": {
+        "title": "Mis Metas",
+        "description": "Seguimiento de tus objetivos"
+      },
+      "meal_plans": {
+        "title": "Planes de Comida",
+        "description": "Planes alimenticios personalizados"
+      },
+      "meal_detail": {
+        "title": "Detalle de Plan",
+        "description": "Información completa de tu plan"
+      },
+      "nutritionists": {
+        "title": "Nutricionistas",
+        "description": "Encuentra tu nutricionista ideal"
+      },
+      "welcome": {
+        "title": "Vista de Bienvenida",
+        "description": "Inicia el viaje hacia una vida saludable"
+      },
+      "tips": {
+        "title": "Tips de Nutrición",
+        "description": "Consejos para una vida saludable"
+      }
     }
   }
-}
 }

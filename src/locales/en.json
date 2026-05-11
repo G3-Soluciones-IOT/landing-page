@@ -11,30 +11,49 @@
   "homepage": {
     "title": "Eat Well, Live Better",
     "subtitle": "Smart nutrition for individuals and professionals",
-    "description": "At Jameo Fit, we believe that good nutrition shouldn’t be complicated. Our platform connects young adults with nutritionists, combining personalized plans, practical recipes, and professional tracking in one digital ecosystem.",
-    "aditional_description": "With technology that understands people and tools that empower specialists, we promote healthy and sustainable habits for everyone.",
+    "description": "At Jameo Fit, we believe that good nutrition shouldn’t be complicated. Our platform connects young adults with a nutrition ecosystem where nutritionists contribute expert knowledge to train and validate AI-driven personalized plans, combining practical guidance and tracking in one digital ecosystem.",
+    "aditional_description": "With technology that understands people and tools that allow specialists to feed and validate intelligent systems, we promote healthy and sustainable habits for everyone.",
     "benefit1": "Lose fat without losing flavor",
     "benefit2": "Build muscle with real recipes",
     "benefit3": "Improve your well-being with professional support",
     "image_alt": "Nutritionist with their patient"
   },
+  "hero": {
+    "badge": "Smart Nutrition Tracking",
+    "title": "Monitor your nutrition",
+    "title_highlight": "automatically",
+    "description": "Connect smart devices to monitor hydration, weight and nutrition progress from one platform.",
+    "benefits": {
+      "1": "Automatic tracking",
+      "2": "Smart hydration",
+      "3": "Real-time progress"
+    },
+    "card1": {
+      "value": "68.4 kg",
+      "label": "Smart scale"
+    },
+    "card2": {
+      "value": "Hydration",
+      "label": "72%"
+    }
+  },
   "for_you": {
     "title": "What does Jameo Fit do for you?",
     "benefit1": "Smart assessment",
-    "benefit1_desc": "Answer a short questionnaire and get a nutritional analysis tailored to you from the very first click. Nutritionists receive this information to further personalize your plan.",
+    "benefit1_desc": "Answer a short questionnaire and get a nutritional analysis tailored to you from the very first click. This information is used by nutrition experts to train and refine the AI system that generates your plan.",
     "benefit2": "Real-time tracking",
-    "benefit2_desc": "Track your progress with dynamic charts and weekly reports that speak your language. Specialists can review your progress and adjust your plan easily.",
+    "benefit2_desc": "Track your progress with dynamic charts and weekly reports that speak your language. The system updates your plan based on AI-driven analysis and expert validation.",
     "benefit3": "Personalized plans",
-    "benefit3_desc": "We design menus that adapt to your tastes, routine, and goals. For nutritionists, it’s a reliable tool to create and update evidence-based plans.",
+    "benefit3_desc": "We design menus that adapt to your tastes, routine, and goals. For nutrition experts, it’s a reliable tool to validate and improve AI-generated nutritional plans.",
     "benefit4": "Nutrition that adapts to you",
-    "benefit4_desc": "Enjoy a flexible experience that fits your lifestyle. At the same time, professionals have a digital ally to support you every step of the way."
+    "benefit4_desc": "Enjoy a flexible experience that fits your lifestyle. At the same time, professionals contribute knowledge to improve the AI that guides your journey."
   },
   "testimonials": {
     "title": "What our users say",
     "user1": {
       "name": "Lic. María Torres",
       "text": "“A tool that amplifies my impact.”",
-      "sub": "I can support more patients, adjust plans, and motivate them with real data."
+      "sub": "I contribute my knowledge to train AI models that support more patients with better insights."
     },
     "user2": {
       "name": "Andrés M.",
@@ -50,12 +69,12 @@
   "how_it_works": {
     "title": "How does it work?",
     "step1": "Answer a short questionnaire about your goals and preferences.",
-    "step2": "Receive your personalized meal plan in seconds, backed by science and professionals.",
-    "step3": "Adjust and track your progress with simple and visual tools, while your nutritionist supports you every step of the way."
+    "step2": "Receive your personalized meal plan in seconds, powered by AI and validated by experts.",
+    "step3": "Adjust and track your progress with simple and visual tools, while the system continuously improves with expert input."
   },
   "cta": {
     "title": "Start for free today",
-    "description": "Your healthy journey starts now. Connect with nutritionists, get smart plans, and achieve sustainable results.",
+    "description": "Your healthy journey starts now. Connect with nutrition intelligence, get smart plans, and achieve sustainable results.",
     "button": "Get Started",
     "app_store": "App Store",
     "google_play": "Google Play",
@@ -77,43 +96,43 @@
     "rights": "© 2025 Jameo Fit. All rights reserved."
   },
   "meet_the_team": {
-     "title": "Meet The Team"
+    "title": "Meet The Team"
   },
   "meet_the_product": {
-     "title": "Meet The Product"
+    "title": "Meet The Product"
   },
   "app_showcase": {
-  "title": "Discover JameoFit",
-  "subtitle": "Explore the main features of our mobile app",
-  "screenshots": {
-    "home": {
-      "title": "Home View",
-      "description": "JameoFit main screen"
-    },
-    "goals": {
-      "title": "My Goals",
-      "description": "Track your objectives"
-    },
-    "meal_plans": {
-      "title": "Meal Plans",
-      "description": "Personalized meal plans"
-    },
-    "meal_detail": {
-      "title": "Plan Details",
-      "description": "Complete information about your plan"
-    },
-    "nutritionists": {
-      "title": "Nutritionists",
-      "description": "Find your ideal nutritionist"
-    },
-    "welcome": {
-      "title": "Welcome View",
-      "description": "Start your journey to a healthy life"
-    },
-    "tips": {
-      "title": "Nutrition Tips",
-      "description": "Advice for a healthy lifestyle"
+    "title": "Discover JameoFit",
+    "subtitle": "Explore the main features of our mobile app",
+    "screenshots": {
+      "home": {
+        "title": "Home View",
+        "description": "JameoFit main screen"
+      },
+      "goals": {
+        "title": "My Goals",
+        "description": "Track your objectives"
+      },
+      "meal_plans": {
+        "title": "Meal Plans",
+        "description": "Personalized meal plans"
+      },
+      "meal_detail": {
+        "title": "Plan Details",
+        "description": "Complete information about your plan"
+      },
+      "nutritionists": {
+        "title": "Nutritionists",
+        "description": "Find your ideal nutritionist"
+      },
+      "welcome": {
+        "title": "Welcome View",
+        "description": "Start your journey to a healthy life"
+      },
+      "tips": {
+        "title": "Nutrition Tips",
+        "description": "Advice for a healthy lifestyle"
+      }
     }
   }
-}
 }

@@ -8,6 +8,7 @@ import NavBar from "./Navbar";
 import AppShowcase from "./AppShowcase";
 import MeetTheProduct from "./MeetTheProduct";
 import MeetTheTeam from "./MeetTheTeam";
+import IoT from "./Iot";
 
 const HomePage = () => {
   return (
@@ -15,6 +16,7 @@ const HomePage = () => {
       <NavBar />
       <main className="w-full pt-[60px] md:pt-[80px]">
         <Inicio />
+        <IoT />
         <ParaTi />
         <Testimonios />
         <AppShowcase />
