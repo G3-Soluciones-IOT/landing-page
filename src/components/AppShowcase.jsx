@@ -10,43 +10,43 @@ const AppShowcase = () => {
     {
       id: 1,
       titleKey: "app_showcase.screenshots.home.title",
-      image: "/Landing-Page/screenshots/VistaHome.png",
+      image: "/landing-page/screenshots/VistaHome.png",
       descriptionKey: "app_showcase.screenshots.home.description"
     },
     {
       id: 2,
       titleKey: "app_showcase.screenshots.goals.title",
-      image: "/Landing-Page/screenshots/VistaGoals.png",
+      image: "/landing-page/screenshots/VistaGoals.png",
       descriptionKey: "app_showcase.screenshots.goals.description"
     },
     {
       id: 3,
       titleKey: "app_showcase.screenshots.meal_plans.title",
-      image: "/Landing-Page/screenshots/VistaMealPlans.png",
+      image: "/landing-page/screenshots/VistaMealPlans.png",
       descriptionKey: "app_showcase.screenshots.meal_plans.description"
     },
     {
       id: 4,
       titleKey: "app_showcase.screenshots.meal_detail.title",
-      image: "/Landing-Page/screenshots/VistaMealPlanDeailed.png",
+      image: "/landing-page/screenshots/VistaMealPlanDeailed.png",
       descriptionKey: "app_showcase.screenshots.meal_detail.description"
     },
     {
       id: 5,
       titleKey: "app_showcase.screenshots.nutritionists.title",
-      image: "/Landing-Page/screenshots/VistaNutricionistas.png",
+      image: "/landing-page/screenshots/VistaNutricionistas.png",
       descriptionKey: "app_showcase.screenshots.nutritionists.description"
     },
     {
       id: 6,
       titleKey: "app_showcase.screenshots.welcome.title",
-      image: "/Landing-Page/screenshots/VistaObjetivos.png",
+      image: "/landing-page/screenshots/VistaObjetivos.png",
       descriptionKey: "app_showcase.screenshots.welcome.description"
     },
     {
       id: 7,
       titleKey: "app_showcase.screenshots.tips.title",
-      image: "/Landing-Page/screenshots/VistaTips.png",
+      image: "/landing-page/screenshots/VistaTips.png",
       descriptionKey: "app_showcase.screenshots.tips.description"
     }
   ];

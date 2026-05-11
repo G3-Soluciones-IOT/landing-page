@@ -20,8 +20,6 @@ const HomePage = () => {
         <ParaTi />
         <Testimonios />
         <AppShowcase />
-        <MeetTheProduct />
-        <MeetTheTeam />
       </main>
       <Footer />
     </>
