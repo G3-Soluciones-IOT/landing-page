@@ -2,7 +2,7 @@
   "name": "landing-page",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://G2-Aplicaciones-Moviles.github.io/Landing-Page", 
+  "homepage": "https://g3-soluciones-iot.github.io/landing-page", 
   "type": "module",
   "scripts": {
     "dev": "vite",
