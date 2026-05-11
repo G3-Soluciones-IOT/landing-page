@@ -9,6 +9,6 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
-  base: '/landing-Page/',
+  base: '/landing-page/',
 
 })
