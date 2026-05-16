@@ -46,7 +46,7 @@ const NavBar = () => {
         {/* Botones en desktop */}
         <div className="hidden md:flex mr-4 gap-4 items-center">
           <LanguageSwitcher />
-          <a href="https://deploy-appwebs.web.app/sign-in">
+          <a href="https://g3iotfrontend.web.app/">
             <button className="bg-[#10b34c] text-white rounded-2xl py-1 md:py-2 md:px-3 hover:cursor-pointer">
               {t("navbar.register")}
             </button>
