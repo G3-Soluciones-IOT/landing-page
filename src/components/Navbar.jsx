@@ -104,14 +104,14 @@ const NavBar = () => {
               <hr className="my-2" />
 
               <a
-                href="https://deploy-appwebs.web.app/sign-in"
+                href="https://g3iotfrontend.web.app/"
                 className="block text-[#245e4f] font-bold"
                 onClick={toggleMenu}
               >
                 {t("navbar.login")}
               </a>
               <a
-                href="https://deploy-appwebs.web.app/sign-in"
+                href="https://g3iotfrontend.web.app/"
                 className="block text-[#245e4f] font-bold"
                 onClick={toggleMenu}
               >
