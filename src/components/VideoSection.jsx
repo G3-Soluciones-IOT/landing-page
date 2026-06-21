@@ -9,9 +9,34 @@ const VideoSection = ({ id, title, thumbnailSrc, thumbnailAlt, videoSrc }) => {
     visible: { opacity: 1, y: 0 },
   };
 
-  const autoplayUrl = `${videoSrc}${
-    videoSrc.includes("?") ? "&" : "?"
-  }autoplay=1&controls=1&rel=0&modestbranding=1`;
+  const getVideoUrl = (src) => {
+    try {
+      const url = new URL(src);
+      let youtubeId = "";
+
+      if (url.hostname.includes("youtu.be")) {
+        youtubeId = url.pathname.replace("/", "");
+      }
+
+      if (url.hostname.includes("youtube.com")) {
+        youtubeId = url.searchParams.get("v") || "";
+
+        if (url.pathname.startsWith("/embed/")) {
+          youtubeId = url.pathname.split("/embed/")[1];
+        }
+      }
+
+      if (!youtubeId) {
+        return src;
+      }
+
+      return `https://www.youtube.com/embed/${youtubeId}?autoplay=1&controls=1&rel=0&modestbranding=1`;
+    } catch {
+      return src;
+    }
+  };
+
+  const autoplayUrl = getVideoUrl(videoSrc);
 
   return (
     <section

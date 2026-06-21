@@ -19,7 +19,10 @@ const HomePage = () => {
         <IoT />
         <ParaTi />
         <Testimonios />
+        <MeetTheProduct/>
         <AppShowcase />
+        <MeetTheTeam/>
+        
       </main>
       <Footer />
     </>
