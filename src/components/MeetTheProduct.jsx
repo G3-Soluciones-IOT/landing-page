@@ -10,7 +10,7 @@ const MeetTheProduct = () => {
       title={t("meet_the_product.title")}
       thumbnailSrc="Home-page-img2.png"
       thumbnailAlt="Meet the Product Thumbnail"
-      videoSrc="https://youtu.be/Eb4BcZKlQi4"
+      videoSrc="https://www.youtube.com/embed/Eb4BcZKlQi4"
     />
   );
 };
